@@ -45,3 +45,21 @@ footer {
   padding: 10px;
   margin-top: 30px;
 }
+/* Image banner styling */
+img {
+  width: 80%;
+  max-width: 600px;
+  margin: 20px auto;
+  display: block;
+  border-radius: 10px;
+}
+
+/* Footer styling */
+footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
